@@ -1,0 +1,19 @@
+* {
+    text-decoration: none;
+    font-family: "DM Sans", sans-serif;
+}
+
+.align-content{
+    max-width: 1100px;
+    margin: auto;
+}
+
+:root{
+    --color-primary:#F7D9C4;
+    --color-background-one: #EFEFEF;
+    --color-background-two: #1B2026;
+    --color-background-three: #DCE8EB;
+
+    --color-text-one:#BBBBBB;
+    --color-text-two: #777777;
+}
