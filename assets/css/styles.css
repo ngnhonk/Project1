@@ -142,6 +142,10 @@ header {
     margin-right: 20px;
 }
 
+.box1-btn button:first-child:hover{
+    color: white;
+    background-color: var(--color-background-two);
+}
 .box1-btn button:last-child:hover {
     color: black;
     background-color: var(--color-primary);
@@ -577,6 +581,7 @@ header {
 .box7 .bottom i{
     font-size: 20px;
     color: black;
+    margin-top: 10px;
 }
 
 .box7 .bottom li:hover{

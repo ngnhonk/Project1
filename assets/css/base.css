@@ -17,3 +17,6 @@
     --color-text-one:#BBBBBB;
     --color-text-two: #777777;
 }
+:hover{
+    transition-duration: 500ms;
+}
